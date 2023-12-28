@@ -1,2 +1,2 @@
 Thiiiis is from feature2
-This is a new line
+Thisiiiiii is a new line

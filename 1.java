@@ -1,2 +1,2 @@
-iiiThis is from feature1
-Tiihis is a line from feature1
+Thiiiis is from feature2
+This is a new line
